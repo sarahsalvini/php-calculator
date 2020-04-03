@@ -39,7 +39,7 @@
                             </div>
                             <br>
                             <div class="d-flex justify-content-center">
-                            Answer:<?php echo $_GET["num1"] + $_GET["num2"] ?>
+                            Answer: <?php echo $_GET["num1"] + $_GET["num2"] ?>
                             </div>
                             </form>
                     </div>
